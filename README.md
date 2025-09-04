@@ -40,6 +40,6 @@ mvn test -DsuiteXmlFile=testing.xml
 - Implement CI/CD integration with Jenkins or GitHub Actions
 
 ## Author
-Mohammed Sumair Khan
-📍 Bangalore, Karnataka, India
-📧 sumairk0777@gmail.com
+- Mohammed Sumair Khan
+- 📍 Bangalore, Karnataka, India
+- 📧 sumairk0777@gmail.com
