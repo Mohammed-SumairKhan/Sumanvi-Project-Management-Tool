@@ -1,0 +1,17 @@
+# Java source files (including Selenium, WebDriver, and utility code)
+*.java linguist-language=Java
+
+# TestNG XML files
+*.xml linguist-language=XML
+
+# JSON test data files
+*.json linguist-language=JSON
+
+# HTML files (if any in project)
+*.html linguist-language=HTML
+
+# CSS files (if any in project)
+*.css linguist-language=CSS
+
+# Properties/configuration files
+*.properties linguist-language=Properties
