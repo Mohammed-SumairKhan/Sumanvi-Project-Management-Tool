@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [mysuite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="mytest(failed)">
+    <classes>
+      <class name="dashboard.DashBoardTests">
+        <methods>
+          <include name="close"/>
+          <include name="tasksWidgetRedirects"/>
+          <include name="start"/>
+        </methods>
+      </class> <!-- dashboard.DashBoardTests -->
+      <class name="searchbar.SearchBarTests">
+        <methods>
+          <include name="searchByPhone"/>
+          <include name="start"/>
+          <include name="close"/>
+          <include name="searchByTaskId"/>
+        </methods>
+      </class> <!-- searchbar.SearchBarTests -->
+    </classes>
+  </test> <!-- mytest(failed) -->
+</suite> <!-- Failed suite [mysuite] -->
