@@ -9,10 +9,10 @@
 ## 🖼️ Application Screenshots
 
 ### Login Page
-![Login Page](./login.png)
+![Login Page](Sumanvi-Project-Management-Tool\screenshots\login.png)
 
 ### Dashboard
-![Dashboard](./dashboard.png)
+![Dashboard](D:\sumanivi-automation\Sumanvi-Project-Management-Tool\screenshots\dashboard.png)
 
 ---
 
