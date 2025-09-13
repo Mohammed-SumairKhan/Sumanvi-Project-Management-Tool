@@ -2,7 +2,7 @@
 
 ## 🚀 Overview
 
-**Sumanvi Project Management Tool** is a comprehensive web application designed to help teams manage projects, tasks, customers, and employees efficiently. With a powerful dashboard, secure authentication, and insightful analytics, Sumanvi empowers organizations to streamline workflows and boost productivity.
+**Sumanvi Project Management Tool** is a robust web application built to streamline project, task, customer, and employee management for teams of any size. It features a dynamic dashboard, secure authentication, and integrated analytics to help you stay on top of your work.
 
 ---
 
@@ -18,11 +18,11 @@
 
 ## ✨ Features
 
-- **Project & Task Management:** Easily create, assign, and track tasks and projects.
-- **Customer & Employee Management:** Organize customer and employee data for seamless workflow.
-- **Lead Tracking:** Capture and manage new leads, all leads, and customer information.
-- **Progress Analytics:** Visual dashboards and reports for real-time insights.
-- **User Authentication:** Secure login with role-based access.
+- **Project & Task Management:** Create, assign, and track tasks and projects effortlessly.
+- **Customer & Employee Management:** Maintain organized records for customers and employees.
+- **Lead Tracking:** Manage new and existing leads with comprehensive customer information.
+- **Progress Analytics:** Access real-time insights with visual dashboards and reports.
+- **User Authentication:** Secure login system with role-based access controls.
 - **Responsive UI:** Modern interface optimized for desktops and tablets.
 
 ---
@@ -67,15 +67,23 @@
 
 ---
 
-## 🧪 Running Tests
+## 🧪 Testing
 
-- Automated tests with Selenium WebDriver and TestNG.
+- **Automated Testing:** Selenium WebDriver and TestNG are used for test automation.
 - To run tests:
   ```sh
   mvn test
   ```
 - Test reports are generated in the `target/surefire-reports` directory.
-  
+
+---
+
+## 📋 Manual Testing
+
+In addition to automation, detailed manual testing has also been performed and documented.  
+For a comprehensive overview of manual test cases and results, see the manual testing repository:  
+👉 [Sumanvi Manual Testing](https://github.com/Mohammed-SumairKhan/sumanvi-manual-testing)
+
 ---
 
 ## 🤝 Contributing
